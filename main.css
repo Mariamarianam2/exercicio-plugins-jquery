@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #e7e7e7;
+    padding-top: 100px;
+}
+
+form{
+    margin-bottom: 16px;
+}
+
+.container{
+    font-weight: bold;
+    display: block;
+}
+.container label {
+    width: 100%;
+    display: block;
+    padding: 8px;
+    max-width: 360px;
+    text-align: justify;
+}
+
